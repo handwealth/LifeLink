@@ -114,7 +114,9 @@ GET	        /api/donors/search	      Search donors
 GET	        /api/admin/donors	      Admin – get all donors
 DELETE	    /api/admin/donor/:id	  Admin – delete donor
 
-### 🧠 Future Enhancements
+---
+```
+## 🧠 Future Enhancements
 
 - OTP verification before sharing donor contact details
 
@@ -125,7 +127,7 @@ DELETE	    /api/admin/donor/:id	  Admin – delete donor
 - AI-assisted donor matching recommendations
 
 
-### ❤️ Contributing
+## ❤️ Contributing
 
 Contributions are always welcome!
 
@@ -137,7 +139,7 @@ Contributions are always welcome!
 
 4. Create a pull request
 
-📝 License
+## 📝 License
 
 This project is licensed under the MIT License.
 
